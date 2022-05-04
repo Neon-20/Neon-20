@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rajveer23pr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15bt_KzXMzvHhjYoZiSSNNlxV4IfOL2ZN/view?usp=sharing](http://surl.li/bxmri)
+- 📄 Know about my experiences [http://surl.li/bxmri](http://surl.li/bxmri)
 
 - ⚡ Fun fact **I love 'eating out' with someone special.**
 
