@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Food Delivery Web app system](https://food-delivery-app-pranav.herokuapp.com/)
 
-- 🌱 I’m currently learning **Node.js,SQL,Kotlin,Django**
+- 🌱 I’m currently learning **Node.js,SQL,FASTAPI**
 
-- 💬 Ask me about **C,C++,Java,React.js,Competitive Coding**
+- 💬 Ask me about **C,C++,Java,React.js,MONGODB,Competitive Coding**
 
 - 📫 How to reach me **rajveer23pr@gmail.com**
 
