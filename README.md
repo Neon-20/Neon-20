@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neon-20" alt="neon-20" /></a> </p>
 
-- 🔭 I’m currently working on [Food Delivery Web app system](https://food-delivery-app-pranav.herokuapp.com/)
+- 🔭 I’m currently working on [FlitchCoin](https://www.flitchcoin.com)(A High Volume Collateralized Lending/Borrowing, On/Off-ramp to High Yield Stablecoin Earn Platform)
 
 - 🌱 I’m currently learning **Node.js,SQL,FASTAPI**
 
