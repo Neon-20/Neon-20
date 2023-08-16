@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **rajveer23pr@gmail.com**
 
-- 📄 Know about my experiences [http://surl.li/bxmri](http://surl.li/bxmri)
-
 - ⚡ Fun fact **I love 'eating out' with someone special.**
 
 <h3 align="left">Connect with me:</h3>
