@@ -1,14 +1,11 @@
-
-[![Header](https://github.com/AntonioErdeljac/AntonioErdeljac/blob/master/banner.png?raw=true "Header")](https://github.com/AntonioErdeljac)
-
 ## 👋 Hello! 
-Software engineer with 6+ years of experience.  Worked for innovative startups, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development.
+I am a Software engineer with 2+ years of experience. I have also been a Co-Founder at a FinTech firm.I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
 
 ## 📚 Writing
-Besides developing, I also run a [Youtube Channel](https://www.youtube.com/channel/UCW_4e6sUTMWHxlF06aErH9w).
+Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 ## 💻 Interesting Contributions
-[![Aribnb](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/airbnb/javascript/pull/1693)
+[![TRPC](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/trpc/trpc/pull/4717)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
