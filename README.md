@@ -15,9 +15,10 @@ Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-Tailwind-informational?style=flat&color=informational&logo=tailwindcss)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational&logo=cpp)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&color=informational&logo=rust)
-![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongoDB)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
