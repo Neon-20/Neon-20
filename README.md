@@ -1,11 +1,17 @@
 ## 👋 Hello! 
 I am a Software engineer with 2+ years of experience. I have also been a Co-Founder at a FinTech firm.I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
 
-## 📚 Writing
+## 📚 Moderation
 Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 ## 💻 Interesting Contributions
 [![TRPC](https://github-production-user-asset-6210df.s3.amazonaws.com/55043383/275788500-d0c17c94-d361-42e3-96a3-aab66e76a8c2.png)](https://github.com/trpc/trpc/pull/4717)
+
+## 🚀 Shipped:
+Also Shipping - [Flitchpay](https://pay.flitchcoin.com/) [Github](https://github.com/Solana-Hyperdrive)
+Shipping - [TrustAuthX](https://www.trustauthx.com/) [Github](https://github.com/One-Click-Auth)
+Already Shipped - [FlitchCoin](https://www.flitchcoin.com/)
+
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
