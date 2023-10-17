@@ -5,7 +5,7 @@ I am a Software engineer with 2+ years of experience. I have also been a Co-Foun
 Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 ## 💻 Interesting Contributions
-[![TRPC](https://github-readme-stats.vercel.app/api/pin/?username=airbnb&repo=javascript&theme=dark&show_owner=true)](https://github.com/trpc/trpc/pull/4717)
+[![TRPC](https://github.com/Neon-20/Neon-20/assets/55043383/51e20899-7946-4c9f-beb3-6e0afe115baa)](https://github.com/trpc/trpc/pull/4717)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
