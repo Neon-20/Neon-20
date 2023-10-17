@@ -14,15 +14,16 @@ Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&color=warning&logo=jest)
-![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&color=informational&logo=cpp)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&color=informational&logo=next.js)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&color=informational&logo=mongoDB)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
+![](https://img.shields.io/badge/Code-Cypress-informational?style=flat&color=informational&logo=cypress)
+![](https://img.shields.io/badge/Code-TRPC-informational?style=flat&color=informational&logo=trpc)
+![](https://img.shields.io/badge/Code-NestJS-informational?style=flat&color=informational&logo=nestjs)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
