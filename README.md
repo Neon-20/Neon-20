@@ -5,7 +5,7 @@ I am a Software engineer with 2+ years of experience. I have also been a Co-Foun
 Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 
 ## 💻 Interesting Contributions
-[![TRPC](https://github.com/Neon-20/Neon-20/assets/55043383/d0c17c94-d361-42e3-96a3-aab66e76a8c2)](https://github.com/trpc/trpc/pull/4717)
+[![TRPC](https://github-production-user-asset-6210df.s3.amazonaws.com/55043383/275788500-d0c17c94-d361-42e3-96a3-aab66e76a8c2.png)](https://github.com/trpc/trpc/pull/4717)
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
