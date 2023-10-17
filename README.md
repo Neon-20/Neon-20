@@ -7,6 +7,13 @@ Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 ## 💻 Interesting Contributions
 [![TRPC](https://github-production-user-asset-6210df.s3.amazonaws.com/55043383/275788500-d0c17c94-d361-42e3-96a3-aab66e76a8c2.png)](https://github.com/trpc/trpc/pull/4717)
 
+## Notable Personal Projects:
+  * [Prodigy-AI](https://prodigyai.pranavrajveer.com/) [Github](https://github.com/Neon-20/Prodigy-AI)
+  * [FileMagnet](https://filemagnet.pranavrajveer.com/) [Github](https://github.com/Neon-20/FileMagnet-File-Converter)
+
+
+****
+
 ## 🚀 Shipped:
 **Shipping** - [Flitchpay](https://pay.flitchcoin.com/) [Github](https://github.com/Solana-Hyperdrive) <br>
 **Also Shipping** - [TrustAuthX](https://www.trustauthx.com/) [Github](https://github.com/One-Click-Auth) <br>
