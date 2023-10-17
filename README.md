@@ -29,7 +29,7 @@ Besides developing, I also run a [Discord Channel](https://discord.gg/D9HynXWx).
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=AntonioErdeljac&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Neon-20&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
