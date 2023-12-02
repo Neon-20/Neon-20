@@ -1,6 +1,7 @@
 > [!WARNING]  
 > **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE.  [SURPRISE](https://hire.pranavrajveer.com).** 🚀
 
+
 ## 👋 Hello! 
 I am a Software Engineer with 1+ years of experience. I have also been a Co-founder at a FinTech firm. I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
 
@@ -39,7 +40,10 @@ Besides developing, I also run a [Discord Channel](https://discord.gg/68k9yBpVVB
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 
 ## 📊 Statistics
-[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Neon-20&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Neon-20&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+<a href="https://app.daily.dev/neon_20"><img src="https://api.daily.dev/devcards/45e5463aa35d43698d7643b9608d9000.png?r=zll" width="400" alt="Pranav Rajveer's Dev Card"/></a>
 
 <!--
 **AntonioErdeljac/AntonioErdeljac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
