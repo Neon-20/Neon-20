@@ -1,5 +1,5 @@
 > [!WARNING]  
-> **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE.  [SURPRISE](https://hire.pranavrajveer.com)** 🚀
+> **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE. [SURPRISE](https://hire.pranavrajveer.com)** 🚀
 
 
 ## 👋 Hello! 
