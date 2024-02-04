@@ -3,7 +3,7 @@
 
 
 ## 👋 Hello! 
-I am a Software Engineer with 2+ years of experience. I have also been a Co-founder at a FinTech firm. I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
+I am a Software Engineer with 1+ years of experience. I have also been a Co-founder at a FinTech firm. I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
 
 ## 📚 Moderation
 Besides developing, I also run a [Discord Channel](https://discord.gg/68k9yBpVVB)..
