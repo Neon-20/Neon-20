@@ -1,28 +1,8 @@
-> [!WARNING]  
-> **IF YOU ARE A RECRUITER PLEASE TAKE A BREATHER AND VISIT HERE.. [SURPRISE](https://hire.pranavrajveer.com)** 🚀
-
-
 ## 👋 Hello! 
-I am a Software Engineer with 1+ years of experience. I have also been a Co-founder at a FinTech firm. I have previously worked for innovative startups, and award-winning agencies. Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for FullStack and API development, along with blockchain as well.😉
-
-## 📚 Moderation
-Besides developing, I also run [Discord Channel](https://discord.gg/68k9yBpVVB).
+Pranav this side. SWE with 2+ yoe. Breaking stuff, obsessed with AI agents and design engineering.
 
 ## 💻 Interesting Contributions
 [![TRPC](https://github-production-user-asset-6210df.s3.amazonaws.com/55043383/275788500-d0c17c94-d361-42e3-96a3-aab66e76a8c2.png)](https://github.com/trpc/trpc/pull/4717)
-
-## Notable Personal Projects:
-  * [Prodigy-AI](https://prodigyai.pranavrajveer.com/) [Github](https://github.com/Neon-20/Prodigy-AI)
-  * [FileMagnet](https://filemagnet.pranavrajveer.com/) [Github](https://github.com/Neon-20/FileMagnet-File-Converter)
-
-
-****
-
-## 🚀 Shipped:
-**Shipping** - [Flitchpay](https://pay.flitchcoin.com/) [Github](https://github.com/Solana-Hyperdrive) <br>
-**Also Shipping** - [TrustAuthX](https://www.trustauthx.com/) [Github](https://github.com/One-Click-Auth) <br>
-**Already Shipped** - [FlitchCoin](https://www.flitchcoin.com/)
-
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
