@@ -2,6 +2,8 @@
   <a href="https://github.com/Neon-20"><img src="https://readme-typing-svg.herokuapp.com/?lines=Founding+Engineer+%7C+AI+%26+Automation;Full+Stack+Developer;AI+Agent+Specialist;Always+learning+new+tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
+
+
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
